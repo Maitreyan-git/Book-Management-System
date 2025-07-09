@@ -1,0 +1,1 @@
+This Book Management System allows admin users to log in, manage book details, and perform operations like adding, updating, and deleting books. Built with PHP and MySQL, it provides an organized dashboard for efficient book tracking and library management.
